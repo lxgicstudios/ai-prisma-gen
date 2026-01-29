@@ -3,9 +3,32 @@
   "version": "1.0.0",
   "description": "Generate Prisma schema from a plain English description",
   "main": "dist/index.js",
-  "bin": { "ai-prisma-gen": "dist/cli.js" },
-  "scripts": { "build": "tsc" },
-  "keywords": ["ai", "openai", "gpt", "prisma", "schema", "database", "orm", "generator", "postgresql", "mysql", "developer-tools", "cli", "automation", "typescript", "backend"],
+  "bin": {
+    "ai-prisma-gen": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "ai",
+    "anthropic",
+    "claude",
+    "llm",
+    "openai",
+    "gpt",
+    "prisma",
+    "schema",
+    "database",
+    "orm",
+    "generator",
+    "postgresql",
+    "mysql",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "backend"
+  ],
   "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
