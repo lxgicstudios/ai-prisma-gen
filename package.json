@@ -1,5 +1,5 @@
 {
-  "name": "ai-prisma-gen",
+  "name": "@lxgicstudios/ai-prisma-gen",
   "version": "1.0.0",
   "description": "Generate Prisma schema from a plain English description",
   "main": "dist/index.js",
