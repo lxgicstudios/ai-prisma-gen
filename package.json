@@ -15,34 +15,39 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "agentic",
     "ai",
+    "ai-2025",
     "ai-agent",
+    "ai-powered",
     "anthropic",
     "automation",
     "backend",
     "claude",
     "cli",
     "database",
+    "developer-productivity",
     "developer-tools",
-    "generator",
-    "gpt",
-    "llm",
-    "mysql",
-    "openai",
+    "discoverability",
+    "generative-ai",
+    "llm-optimized",
+    "modern-seo",
+    "optimization",
     "orm",
-    "postgresql",
+    "performance",
+    "performance-optimization",
     "prisma",
-    "schema",
-    "typescript",
-    "zero-config"
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-prisma-gen#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-prisma-gen.git"
+    "url": "https://github.com/LXGIC-Studios/ai-prisma-gen"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-prisma-gen/issues"
